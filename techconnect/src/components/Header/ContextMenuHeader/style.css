@@ -1,0 +1,7 @@
+.context-menu-content {
+  display: none; /* Escondido por padrão */
+}
+
+.context-menu-content.open {
+  display: block; /* Exibe quando a classe .open é adicionada */
+}

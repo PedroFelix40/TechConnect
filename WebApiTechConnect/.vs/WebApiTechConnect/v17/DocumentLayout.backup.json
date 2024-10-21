@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|c:\\users\\fytho\\documents\\github\\techconnect\\webapitechconnect\\webapitechconnect\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|solutionrelative:webapitechconnect\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|c:\\users\\fytho\\documents\\github\\techconnect\\webapitechconnect\\webapitechconnect\\controller\\seguidorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|solutionrelative:webapitechconnect\\controller\\seguidorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|c:\\users\\fytho\\documents\\github\\techconnect\\webapitechconnect\\webapitechconnect\\controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|solutionrelative:webapitechconnect\\controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|c:\\users\\fytho\\documents\\github\\techconnect\\webapitechconnect\\webapitechconnect\\viewmodels\\chat\\cadastrarchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38628814-701F-49FF-BB08-C4DE24235EF7}|WebApiTechConnect\\WebApiTechConnect.csproj|solutionrelative:webapitechconnect\\viewmodels\\chat\\cadastrarchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeguidoresController.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Controller\\SeguidoresController.cs",
+              "RelativeDocumentMoniker": "WebApiTechConnect\\Controller\\SeguidoresController.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Controller\\SeguidoresController.cs",
+              "RelativeToolTip": "WebApiTechConnect\\Controller\\SeguidoresController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:29:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarChat.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\ViewModels\\Chat\\CadastrarChat.cs",
+              "RelativeDocumentMoniker": "WebApiTechConnect\\ViewModels\\Chat\\CadastrarChat.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\ViewModels\\Chat\\CadastrarChat.cs",
+              "RelativeToolTip": "WebApiTechConnect\\ViewModels\\Chat\\CadastrarChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:22:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Controller\\ChatController.cs",
+              "RelativeDocumentMoniker": "WebApiTechConnect\\Controller\\ChatController.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Controller\\ChatController.cs",
+              "RelativeToolTip": "WebApiTechConnect\\Controller\\ChatController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:51:35.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "WebApiTechConnect\\Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\fytho\\Documents\\Github\\TechConnect\\WebApiTechConnect\\WebApiTechConnect\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "WebApiTechConnect\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:46:00.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
